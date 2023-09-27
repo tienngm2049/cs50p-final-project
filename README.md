@@ -1,6 +1,6 @@
 # STOCK PORTFOLIO TRACKER WITH REAL-TIME DATA
 
-#### Video Demo: [Insert Video URL Here]
+#### Video Demo: [Link](https://youtu.be/KmcpjEi1Lrg)
 
 #### Description:
 This project is a platform that allows you to efficiently manage and track your stock portfolio. Users can create accounts with usernames and passwords to securely access their portfolios. The application interacts with two CSV files: `login_database.csv` to authenticate users and `portfolio.csv` to store portfolio data.
